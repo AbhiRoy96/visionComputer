@@ -1,7 +1,6 @@
 # visionComputer
 License-plate detection examples and experiments (Jupyter notebooks)
 
-Short project description
 This repository contains notebooks, images and code used for exploring and building license-plate detection solutions. It includes data examples, training/visualization assets, and experiments for detecting and localizing license plates using classical computer-vision and/or deep-learning approaches.
 
 Demo
